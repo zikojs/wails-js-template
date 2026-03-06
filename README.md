@@ -1,8 +1,12 @@
-# README
+## Quik start 
+
+```
+wails init -n app-name -t https://github.com/zikojs/wails-js-template
+```
 
 ## About
 
-This is the official Wails Vanilla template.
+This is the official Wails Zikojs template.
 
 You can configure the project by editing `wails.json`. More information about the project settings can be found
 here: https://wails.io/docs/reference/project-config
