@@ -1,4 +1,4 @@
-#logo {
+/* #logo {
     display: block;
     width: 50%;
     height: 50%;
@@ -8,7 +8,7 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-origin: content-box;
-}
+} */
 
 .result {
     height: 20px;
@@ -27,10 +27,10 @@
     cursor: pointer;
 }
 
-.input-box .btn:hover {
+/* .input-box .btn:hover {
     background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
     color: #333333;
-}
+} */
 
 .input-box .input {
     border: none;
@@ -43,12 +43,12 @@
     -webkit-font-smoothing: antialiased;
 }
 
-.input-box .input:hover {
+/* .input-box .input:hover {
     border: none;
     background-color: rgba(255, 255, 255, 1);
-}
+} */
 
-.input-box .input:focus {
+/* .input-box .input:focus {
     border: none;
     background-color: rgba(255, 255, 255, 1);
-}
+} */
